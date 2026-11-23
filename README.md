@@ -1,6 +1,6 @@
 # AssemblyAI streaming model chooser: Realtime or Realtime-Agent
 
-Companion code for the AssemblyAI blog post [Realtime or Realtime-Agent? How to choose a streaming model](https://www.assemblyai.com/blog/realtime-vs-realtime-agent-streaming-model).
+Companion code for the AssemblyAI blog post [Which AssemblyAI-STT-3.7 model should you use?](https://www.assemblyai.com/blog/which-assemblyai-stt-3-7-model), in the section on turn detection and partial transcripts.
 
 AssemblyAI has two streaming speech-to-text models, and you pick one with a single connection parameter:
 
